@@ -1,0 +1,35 @@
+.itemCard {
+  width: 15%;
+  border: 1px solid gray;
+  border-radius: 10px;
+  text-align: center;
+  background-color: lightgoldenrodyellow;
+  margin: 10px;
+  overflow: hidden;
+  padding: 5px 5px;
+  float: left;
+}
+
+h3 {
+  margin: 0px;
+  padding: 0px;
+}
+h4 {
+  padding: 0px;
+  margin: 0px;
+}
+
+.itemCard img {
+  width: 98%;
+  height: 98%;
+}
+
+.itemCard button {
+  background-color: lightblue;
+  border: 1px solid blue;
+  font-size: medium;
+  font-weight: bold;
+  border-radius: 5px;
+  margin-top: 8px;
+  height: 20px;
+}
